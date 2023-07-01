@@ -272,7 +272,7 @@ footer{ text-align:center; background-color: #4b4b4a; color:#ababa8; padding:30p
 }
 
 
-@media screen and (min-width:480px) and (max-width:768px) {
+@media screen and (min-width:380px) and (max-width:768px) {
   .col-mm-1, .col-mm-2, .col-mm-3, .col-mm-4, .col-mm-5, .col-mm-6, .col-mm-7, .col-mm-8, .col-mm-9, .col-mm-10, .col-mm-11, .col-mm-12 {
     float: left;
   }
